@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "nama": "Sampah B3 Aerosol",
+    "jenis": "B3",
+    "gambar": "https://waste4change.com/blog/wp-content/uploads/image-73-1024x683-1.png",
+    "deskripsi": "Kaleng aerosol adalah salah satu bentuk limbah B3 yang berbahaya. Limbah B3 adalah limbah yang mengandung bahan berbahaya dan beracun yang dapat mencemari lingkungan dan makhluk hidup."
+  },
+  {
+    "id": 2,
+    "nama": "Sampah Non-B3/Bukan Sampah B3",
+    "jenis": "Non-B3",
+    "gambar": "https://mediaedutama.co.id/wp-content/uploads/2018/10/recycle-MEI.jpg",
+    "deskripsi": "Sampah non-B3 aerosol adalah limbah yang tidak mengandung bahan berbahaya dan beracun seperti kaleng aerosol B3, tetapi tetap memerlukan penanganan yang tepat agar tidak mencemari lingkungan."
+  },
+
+  {
+    "id": 3,
+    "nama": "Tidak Dapat Di Klasifikasi",
+    "jenis": "Tidak di Ketahui",
+    "gambar": "https://cdn.pixabay.com/photo/2020/12/27/20/24/smile-5865208_960_720.png",
+    "deskripsi": ""
+  }
+]
